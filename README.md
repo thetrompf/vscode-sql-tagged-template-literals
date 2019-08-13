@@ -40,7 +40,7 @@ code --install-extension vscode-sql-tagged-template-literals-VERSION.vsix
 ## Thanks
 
 This is based on several great existing extensions:
-
+- https://github.com/frigus02/vscode-sql-tagged-template-literals
 - https://github.com/mjbvz/vscode-comment-tagged-templates
 - https://github.com/ForbesLindesay/vscode-sql-template-literal
 - https://github.com/Ladeiras/vscode-sql-template-literal
